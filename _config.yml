@@ -1,15 +1,15 @@
 # Site settings
-title: Andy's Coding Blog
+title: Peter Humphrey
 header-img: img/home-bg.png
-email: andy.touch.1993@gmail.com
-copyright_name: andytouch1993
+email: peterberwind@gmail.com
+copyright_name: peterberwind
 description: > # this means to ignore newlines until "baseurl:"
-  A journey through my Learn experience!
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
-github_username:  andytouch1993
-learn_profile: andytouch1993
-email_username: andy.touch.1993@gmail.com
+github_username:  peterberwind
+learn_profile: peterberwind
+email_username: peterberwind@gmail.com
 
 # Build settings
 markdown: kramdown
