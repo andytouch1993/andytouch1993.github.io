@@ -1,0 +1,21 @@
+# Site settings
+title: Andy's Coding Blog
+header-img: img/home-bg.png
+email: andy.touch.1993@gmail.com
+copyright_name: andytouch1993
+description: > # this means to ignore newlines until "baseurl:"
+  A journey through my Learn experience!
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  andytouch1993
+learn_profile: andytouch1993
+email_username: andy.touch.1993@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
