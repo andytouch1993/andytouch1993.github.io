@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Web Scrapping"
+title:  "WEB SCRAPING"
 date:   2016-07-18 03:50:18 -0400
 ---
 
